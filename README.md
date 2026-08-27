@@ -7,8 +7,8 @@ References for the parameters of the EOS are given in the source code.
 - f_h2o: this is the ratio between the h2o layer and the total mass of the planet
 
 For Earth the values should be roughly:
-f_core=0.325
-f_h2o=0.005
+- f_core=0.325
+- f_h2o=0.005
 
 This gives R=0.99 for M=1.0.
 
